@@ -1,0 +1,12 @@
+# Blender 3.5.0 MTL File: 'Bullet.blend'
+# www.blender.org
+
+newmtl マテリアル
+Ns 1000.000000
+Ka 0.913386 0.913386 0.913386
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.629921
+illum 6
+map_Kd bullet.png
